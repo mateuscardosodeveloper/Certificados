@@ -1,6 +1,6 @@
 # Certificados :scroll:
 
-* Certificação AWS Desenvolvedor Associate 2021 - 2022/23h 
+• Certificação AWS Desenvolvedor Associate 2021 - 2022/23h
 
 • PYTHON 3: INTRODUÇÃO À NOVA VERSÃO DA LINGUAGEM – 2020/24h
 
