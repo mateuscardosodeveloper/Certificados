@@ -1,8 +1,8 @@
 # Certificados :scroll:
 
+* Certificação AWS Desenvolvedor Associate 2021 - 2022/23h 
 
-• PYTHON 3: INTRODUÇÃO À NOVA VERSÃO DA LINGUAGEM
-– 2020/24h
+• PYTHON 3: INTRODUÇÃO À NOVA VERSÃO DA LINGUAGEM – 2020/24h
 
 • FLASK: CRIE UMA WEBAPP COM PYTHON 3 – 2020/28h
 
